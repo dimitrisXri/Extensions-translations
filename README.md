@@ -1,4 +1,4 @@
-Official phpBB Extensions
+Official phpBB Extensions:
 
 https://github.com/dimitrisXri/Extensions-translations/tree/Board-Announcements
 
