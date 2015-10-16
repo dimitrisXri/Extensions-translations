@@ -1,11 +1,3 @@
-Official phpBB Extensions:
+Greek translation for phpBB 3.1.x Auto Groups extension
 
-https://github.com/dimitrisXri/Extensions-translations/tree/Board-Announcements
-
-https://github.com/dimitrisXri/Extensions-translations/tree/Board-Rules
-
-https://github.com/dimitrisXri/Extensions-translations/tree/Collapsible-Forum-Categories
-
-https://github.com/dimitrisXri/Extensions-translations/tree/Google-Analytics
-
-https://github.com/dimitrisXri/Extensions-translations/tree/Pages
+https://www.phpbb.com/customise/db/extension/auto_groups/
