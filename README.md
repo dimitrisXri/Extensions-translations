@@ -26,3 +26,8 @@ https://github.com/dimitrisXri/Extensions-translations/tree/MODx-commands
 https://github.com/dimitrisXri/Extensions-translations/tree/TinyMCE_Add-On_for_Pages
 
 https://github.com/dimitrisXri/Extensions-translations/tree/Top_Five_Extension
+
+
+Board3 Portal phpBB Extension:
+==========================
+https://github.com/dimitrisXri/Board3_Portal/tree/board3_portal_210_rc2_gr_lang
