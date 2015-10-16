@@ -18,3 +18,11 @@ https://github.com/dimitrisXri/Extensions-translations/tree/Pages
 
 Other phpBB Extensions:
 ==========================
+
+https://github.com/dimitrisXri/Extensions-translations/tree/Forum-Disclaimer
+
+https://github.com/dimitrisXri/Extensions-translations/tree/MODx-commands
+
+https://github.com/dimitrisXri/Extensions-translations/tree/TinyMCE_Add-On_for_Pages
+
+https://github.com/dimitrisXri/Extensions-translations/tree/Top_Five_Extension
